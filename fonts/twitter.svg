@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.05" y1="0.035" x2="1.157" y2="1.336" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1fd1f9"/>
+      <stop offset="1" stop-color="#b621fe"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_3261" data-name="Gruppe 3261" transform="translate(-860 -730)">
+    <circle id="Ellipse_243" data-name="Ellipse 243" cx="17.5" cy="17.5" r="17.5" transform="translate(860 730)" fill="url(#linear-gradient)"/>
+    <g id="twitter_2_" data-name="twitter (2)" transform="translate(868.345 740.515)">
+      <g id="Gruppe_2738" data-name="Gruppe 2738" transform="translate(0 0)">
+        <path id="Pfad_6024" data-name="Pfad 6024" d="M18.311,49.761a7.826,7.826,0,0,1-2.163.593A3.733,3.733,0,0,0,17.8,48.279a7.5,7.5,0,0,1-2.38.909,3.754,3.754,0,0,0-6.493,2.567,3.865,3.865,0,0,0,.087.856,10.625,10.625,0,0,1-7.737-3.926A3.755,3.755,0,0,0,2.428,53.7a3.707,3.707,0,0,1-1.7-.462v.041A3.771,3.771,0,0,0,3.74,56.969a3.747,3.747,0,0,1-.984.124,3.32,3.32,0,0,1-.711-.064,3.79,3.79,0,0,0,3.508,2.615A7.543,7.543,0,0,1,.9,61.244a7.03,7.03,0,0,1-.9-.051,10.568,10.568,0,0,0,5.759,1.685A10.611,10.611,0,0,0,16.443,52.2c0-.166-.006-.326-.014-.485A7.489,7.489,0,0,0,18.311,49.761Z" transform="translate(0 -48)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

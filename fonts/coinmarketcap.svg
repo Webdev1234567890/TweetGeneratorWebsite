@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.05" y1="0.035" x2="1.157" y2="1.336" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1fd1f9"/>
+      <stop offset="1" stop-color="#b621fe"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_3266" data-name="Gruppe 3266" transform="translate(-1065 -730)">
+    <circle id="Ellipse_248" data-name="Ellipse 248" cx="17.5" cy="17.5" r="17.5" transform="translate(1065 730)" fill="url(#linear-gradient)"/>
+    <g id="coinmarketcap-seeklogo.com_2" data-name="coinmarketcap-seeklogo.com 2" transform="translate(1591.166 354.438)">
+      <path id="Pfad_6559" data-name="Pfad 6559" d="M36.089,280.99a.985.985,0,0,1-.989.072,1.518,1.518,0,0,1-.575-1.366v-2.031c0-.971-.377-1.672-1.025-1.851-1.1-.324-1.923,1.025-2.229,1.528l-1.941,3.11v-3.828c-.018-.881-.306-1.4-.845-1.564-.359-.108-.9-.054-1.42.737l-4.332,6.938a7.668,7.668,0,0,1-.881-3.559,7.478,7.478,0,1,1,14.954,0v.036a1.914,1.914,0,0,1-.719,1.779Zm2.373-1.815h0v-.036a9.132,9.132,0,1,0-9.131,9.311,8.972,8.972,0,0,0,6.2-2.48.84.84,0,0,0-1.132-1.24l-.018.018a7.386,7.386,0,0,1-10.641-.485l3.9-6.255V280.9c0,1.384.539,1.833.989,1.959s1.132.036,1.869-1.132l2.139-3.469a1.987,1.987,0,0,1,.2-.288v1.761a3.107,3.107,0,0,0,1.42,2.84,2.612,2.612,0,0,0,2.678-.108A3.562,3.562,0,0,0,38.462,279.175Z" transform="translate(-538 114)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

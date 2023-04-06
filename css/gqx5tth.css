@@ -1,0 +1,52 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * circe:
+ *   - http://typekit.com/eulas/00000000000000007735afd8
+ * los-feliz:
+ *   - http://typekit.com/eulas/00000000000000007735b26a
+ *   - http://typekit.com/eulas/00000000000000007735b26e
+ *   - http://typekit.com/eulas/00000000000000007735b271
+ *   - http://typekit.com/eulas/00000000000000007735b273
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-07-11 19:14:54 UTC"}*/
+
+@import url("p243c243c.css");
+
+@font-face {
+font-family:"los-feliz";
+src:url("../le196e196") format("woff2"),url("../de196e196") format("woff"),url("../ae196e196") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"los-feliz";
+src:url("../l652f652f") format("woff2"),url("../d652f652f") format("woff"),url("../a652f652f") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"los-feliz";
+src:url("../lfdccfdcc") format("woff2"),url("../dfdccfdcc") format("woff"),url("../afdccfdcc") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"los-feliz";
+src:url("../le265e265") format("woff2"),url("../de265e265") format("woff"),url("../ae265e265") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"circe";
+src:url("../le196e196_1") format("woff2"),url("../de196e196_1") format("woff"),url("../ae196e196_1") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+.tk-los-feliz { font-family: "los-feliz",serif; }
+.tk-circe { font-family: "circe",sans-serif; }
